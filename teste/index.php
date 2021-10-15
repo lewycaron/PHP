@@ -11,7 +11,7 @@
 <h1>Aparelhos Eletrônicos</h1>
 
 	<form action="cadastro.php" method="POST">
-
+		<p></p>
 		<p>
 		<label>nome do aparelho</label><br>
 		<input type="text" name="nome_do_aparelho">
