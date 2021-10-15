@@ -1,0 +1,38 @@
+body{
+    font-family: helvetica;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    background-image: url('../imagens/background.jpg');
+
+}
+
+a {
+    text-decoration: none;
+    color: #93c40d;
+
+}
+
+.menu {
+    padding: 0px;
+    background-color: rgb(32, 32, 32);
+}
+.menu li{
+    padding: 10px;
+    display: inline-block;
+    list-style: none;
+}
+
+.menu a{
+
+    text-decoration: none;
+}
+
+.code {
+    margin: 10px;
+    font-family: "Courier New";
+    font-style: oblique;
+}
+.tab {
+    margin-left: 50px;
+}

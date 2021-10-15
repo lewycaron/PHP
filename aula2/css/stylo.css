@@ -1,0 +1,33 @@
+/* Folha de estilo personalizado para este projeto */
+
+body{
+
+    font-family: tahoma;
+    font-size: 14px;
+    color: #39495e;
+    background-color: #ecf0f1; 
+}
+
+p{
+    color: #5b6967;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 10px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #3498db;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
